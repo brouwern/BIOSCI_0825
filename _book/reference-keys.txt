@@ -33,6 +33,7 @@ practice-tests
 rounding-numeric-responses
 how-to-round
 lecture-slides
+how-to-succeed-in-this-course
 final-exam
 exam-study-guides
 study-guides
@@ -46,4 +47,9 @@ testing-technology-policies
 tophat
 updates-to-schedule-syllabus
 videos-of-lectures
+faq---frequently-asked-questions
+what-textbook-will-we-use
+what-content-is-asynchronous
+im-not-arriving-until-after-the-1st-day-of-class---is-that-a-problem
+i-joined-the-class-late-what-can-i-do
 zoom
