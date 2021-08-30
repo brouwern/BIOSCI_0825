@@ -1,0 +1,36 @@
+# Rounding numeric responses
+
+I frequently require numeric answers on assignments and tests.  I always include a buffer to accommodate reasonable variation in rounding, and re-check these questions before posting grade.  
+
+For example, if the answer is 1.05, a typical buffer would allow answers from 1.044 to 1.064 to be accepted as correct.  
+
+If you believe you entered a correct numeric answer but the buffer was too narrow you can submit a test-inquiry form as detailed elsewhere in the syllabus.
+
+
+
+## How to round
+
+I will often include reminders or instructions about rounding, but may not always do this.  Partial credit will not be assigned if you fall outside the buffer or do not follow the stated rounding rules or the general principles below.
+
+In general, it acceptable to round to two digits after any initial zeros to the right of the decimal place.
+
+Examples:
+
+* 1.05 is left as 1.05
+* 1.052 is left at 1.052
+* 1.0545 is rounded to 1.055
+* 1.05409999 is rounded to 1.054
+
+When doing calculations round your answer only at the very end.
+
+If you need to round intermediate numbers, rounding to the first 4 non-zero digits to the right of the decimal should be ok.
+
+Examples:
+
+* 1.0545 is left as 1.0545 during intermediate calculations
+* 1.05409999 is left as 1.054099 during intermediate calculations
+
+
+
+
+<!-- Rounding and partial credit. -->

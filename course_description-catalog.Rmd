@@ -1,0 +1,5 @@
+# Catalog description
+
+The catalog description of this course is:
+
+> "This course is an introduction to the evolutionary and ecological forces that change our world. We will consider how organisms change over time (evolution), how they interact with each other and with their environment (ecology), and how they assemble as communities and ecosystems. We will then apply these concepts to understand how human activity is changing the biosphere."

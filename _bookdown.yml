@@ -1,0 +1,5 @@
+book_filename: "BIOSCI_0835"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Topic "

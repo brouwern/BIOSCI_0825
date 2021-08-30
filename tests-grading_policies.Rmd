@@ -1,0 +1,32 @@
+# Test grading policies
+
+## Number of tests & drop/replace policy.
+
+* There will be 4 tests administered throughout the semester. 
+* The final exam will be cumulative.
+* No makeup exams will be given for any reason.
+* Your lowest scores of the  4 mini-test will be automatically dropped when grades are calculated at the end of the semester.  
+* Additionally, your score on the final can replace your 2nd lowest score, if the final is higher.  If your score on the final is lower it does not lower your previous test score.
+* Your grade will therefore be based on your 4 best scores plus the final; 1 of those 4 can be modified by the final, so the final can count twice.
+* If you are unable to take a unit test for ANY reason it will be counted zero.
+* If you miss just 1 test, that score will be automatically dropped as your lowest score when grades are calculated after the final.
+* If you miss 2 tests, 1 will be dropped and the 2nd can be replaced by your score on the final.
+* If you miss 3 tests, the 3rd zero will remain a zero.  If this occurs please contact your advisors to consider your options.
+ 
+
+## Test length & format
+
+NOTE: the following policies are provisional and may be adjusted as needed to optimize test length and how to implement the "buffer question" policy in Canvas.
+
+* Tests will be scored out of 25 points.   However, there will be at least 27 points worth of questions on the test.  Each test therefore will effectively contain 2 or "buffer points" that you can miss without harming your grade. 
+* The maximum score on a mini-test will always be capped at 25/25. If there are 27 points on a test and you get all 27 questions correct your score will be 100%. 
+* No extra credit will be offered on tests; the maximum score on a test will be 100%.
+ 
+
+## Test question formats
+
+* Test questions will frequently be multiple choice.  Keyword: "frequently" - there will other types of questions too.
+* Most tests will have at least one question requiring a numeric calculation.  
+* Other common forms of questions are fill in the blank, dropdowns, or matching. 
+* There will likely NO True/False questions on tests.
+* For fill-in-the-blank questions, spelling errors will result in 0 points.  No partial credit will be given.

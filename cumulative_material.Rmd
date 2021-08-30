@@ -1,0 +1,7 @@
+# Course content is cumulative 
+
+Content within the course is technically cumulative with each test referring back to concepts from previous material!   
+
+**Luckily, this integration will occur within the lectures also so you shouldn't be surprised by the connections being made.**
+
+For example, evolution and speciation (covered during the middle of the course) are all related to mutation and genomics (cover the first few weeks).  

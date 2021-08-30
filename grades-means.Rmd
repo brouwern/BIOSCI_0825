@@ -1,0 +1,3 @@
+# Test and class averagges
+
+I do not report the mean, max or other information about test score or the class as a whole..

@@ -1,0 +1,14 @@
+# Course materials 
+
+Thanks to an open educational resources (OER) grant from the state of Pennsylvania there is no text to purchase for this course.  **All readings will be provided as webpages or PDFs.**  Most readings will be based on chapters from the [LibreText](https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)) / [OpenStax](https://openstax.org/details/books/biology-2e) bilogy text books and similar open-source projects.
+
+
+```{r, echo = F}
+url. <- "https://upload.wikimedia.org/wikipedia/en/c/c6/Openstax_logo.png"
+knitr::include_url(url.)
+```
+
+
+
+
+
