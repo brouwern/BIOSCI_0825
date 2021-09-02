@@ -4,6 +4,8 @@ meeting-times
 nlb
 assessment-overview
 academic-integrity
+course-communication---overview
+primary-modes-of-communication
 email_and_canvas_msg
 communication---university-email-policy
 catalog-description
@@ -12,9 +14,10 @@ course-content-is-cumulative
 DRS
 extracredit
 grade-and-exam-inquiries
+grading-scale
 test-and-class-averagges
 masks-and-covid-19
-metnal-health-wellness
+mental-health-wellness
 resources
 lectures-mini-quiz-questions
 office-hours
@@ -29,9 +32,12 @@ qualifying-conditions
 quarantine
 privacy
 partial-credit
+points
 practice-tests
 rounding-numeric-responses
 how-to-round
+semester-schedule
+weekly-schedule
 lecture-slides
 how-to-succeed-in-this-course
 final-exam

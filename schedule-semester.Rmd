@@ -1,0 +1,10 @@
+# Semester schedule
+
+The schedule of tests is available [here](https://docs.google.com/spreadsheets/d/1LAogpj5NgGj259ojV7maC1y64IvkHvtlDm8EGS46Ex0/edit?usp=sharing).
+
+```{r, echo = F}
+url. <- "https://docs.google.com/spreadsheets/d/1LAogpj5NgGj259ojV7maC1y64IvkHvtlDm8EGS46Ex0/edit?usp=sharing"
+knitr::include_url(url.)
+```
+
+

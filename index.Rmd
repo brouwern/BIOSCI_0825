@@ -12,11 +12,17 @@ description: "This is the syllabus for BioSci 0835 Our Changing World at the Uni
 
 # Welcome!
 
-This is the syllabus.
+This is the syllabus for BioSci 0835, our changing world
 
-```{r eval=FALSE}
-install.packages("bookdown")
+```{r eval=FALSE, echo = F}
+#install.packages("bookdown")
 # or the development version
 # devtools::install_github("rstudio/bookdown")
+```
+
+```{r, echo  = F}
+data("lynx")
+plot(lynx, xlab = "X-axis: Year", ylab = "Y-axis: Number of luynx pelts",
+     lwd =2, col =3)
 ```
 

@@ -3,3 +3,12 @@
 The catalog description of this course is:
 
 > "This course is an introduction to the evolutionary and ecological forces that change our world. We will consider how organisms change over time (evolution), how they interact with each other and with their environment (ecology), and how they assemble as communities and ecosystems. We will then apply these concepts to understand how human activity is changing the biosphere."
+
+```{r echo = F}
+data("co2")
+plot(co2, 
+     main = "Monthly CO2 observations in ppm, Mauna Loa, HI",
+     xlab = "Year", 
+     ylab = expression("Atmospheric concentration of CO"[2]))
+```
+
