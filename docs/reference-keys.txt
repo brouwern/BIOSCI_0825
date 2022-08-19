@@ -27,12 +27,9 @@ office-hours-tips
 office-hours-cancled-after-tests
 office-hours-canceled-finals-week
 partial-credit
-points
 practice-tests
 rounding-numeric-responses
 how-to-round
-semester-schedule
-weekly-schedule
 how-to-succeed-in-this-course
 final-exam
 exam-study-guides
