@@ -5,7 +5,7 @@
 The first several pages contain key information about the course.  Subsequent pages are organized alphabetically by major topic.
 
 
-Your first assignment in the class will be to read through the syllabus and complete a "Syllabus treasure hunt" assignment on Canvas.  
+<!-- Your first assignment in the class will be to read through the syllabus and complete a "Syllabus treasure hunt" assignment on Canvas.   -->
 
 <!-- If you have a question about the syllabus (after you complete the syllabus treasure hunt) or even just spot a typo, post a comment on via... -->
 

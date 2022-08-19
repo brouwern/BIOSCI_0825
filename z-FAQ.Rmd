@@ -13,7 +13,7 @@
 
 ## “What textbook will we use?”
 
-There is no textbook to purchse - I will provide all readings via Canvas.
+There is no textbook to purchase - I will provide all readings via Canvas.
 
 
 ## "What content is asynchronous?"
@@ -39,12 +39,12 @@ No content will be asynchronous.  Any in-class assignments can be submitted for 
 
 
 
-## “I’m not arriving until after the 1st day of class - is that a problem?”
+<!-- ## “I’m not arriving until after the 1st day of class - is that a problem?” -->
 
-No problem at all.  You can attend from wherever you are via zoom or watch the recordings.  All in-class assignments can be completed up to 24 hours after they are assigned.
+<!-- No problem at all.  You can attend from wherever you are via zoom or watch the recordings.  All in-class assignments can be completed up to 24 hours after they are assigned. -->
  
 
 ## “I joined the class late, what can I do?”
 
-All "mini-quiz" questions associated with the Unit 1 lectures will remain open for an extended period of time to accommodate people who join the class later.
+All assignments questions associated with the Unit 1 lectures will remain open for an extended period of time to accommodate people who join the class later.
 

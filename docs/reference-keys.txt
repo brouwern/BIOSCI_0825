@@ -19,7 +19,6 @@ test-and-class-averagges
 masks-and-covid-19
 mental-health-wellness
 resources
-lectures-mini-quiz-questions
 office-hours
 instructor-office-hours
 uta-office-hours
@@ -27,10 +26,6 @@ individual-appointments
 office-hours-tips
 office-hours-cancled-after-tests
 office-hours-canceled-finals-week
-online-attendance
-qualifying-conditions
-quarantine
-privacy
 partial-credit
 points
 practice-tests
@@ -38,7 +33,6 @@ rounding-numeric-responses
 how-to-round
 semester-schedule
 weekly-schedule
-lecture-slides
 how-to-succeed-in-this-course
 final-exam
 exam-study-guides
@@ -56,6 +50,5 @@ videos-of-lectures
 faq---frequently-asked-questions
 what-textbook-will-we-use
 what-content-is-asynchronous
-im-not-arriving-until-after-the-1st-day-of-class---is-that-a-problem
 i-joined-the-class-late-what-can-i-do
 zoom

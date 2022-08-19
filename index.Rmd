@@ -12,7 +12,7 @@ description: "This is the syllabus for BioSci 0835 Our Changing World at the Uni
 
 # Welcome!
 
-This is the syllabus for BioSci 0835, our changing world
+This is the syllabus for BioSci 0835, Our Changing World
 
 ```{r eval=FALSE, echo = F}
 #install.packages("bookdown")
