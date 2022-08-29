@@ -1,11 +1,13 @@
-# Tests
+# Exams
 
-## General Test policies & Information:
+## General exam policies and information:
 
 1. Tests will be administered in-class but taken on Canvas.
-1. There will be 4 exams semester.  1 will be dropped as detailed elsewhere in the syllabus.
-1. I will not answer questions during the test.  This is my normal policy during my other classes, and also is in line with COVID social distancing policies.
-1.  Though I do not currently plan on doing this, I reserve the right to require anyone with an accommodation (e.g. DRS, quarantine) to take the test remotely to log into Zoom and have your camera on while taking tests.
+1. There will be 3 unit exams semester.  Your **2** highest scores will be used to calculate your final grade.
+1. I will not answer questions during exams.  This is my normal policy during my other classes, and also is in line with COVID social distancing policies.
+
+
+<!-- 1.  Though I do not currently plan on doing this, I reserve the right to require anyone with an accommodation (e.g. DRS, quarantine) to take the test remotely to log into Zoom and have your camera on while taking tests. -->
 
 
 <!-- buffer -->

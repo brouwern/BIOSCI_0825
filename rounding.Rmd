@@ -8,7 +8,7 @@ If you believe you entered a correct numeric answer but the buffer was too narro
 
 
 
-## How to round
+## How to round like a biologist
 
 I will often include reminders or instructions about rounding, but may not always do this.  Partial credit will not be assigned if you fall outside the buffer or do not follow the stated rounding rules or the general principles below.
 

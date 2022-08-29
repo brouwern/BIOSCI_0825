@@ -4,10 +4,10 @@ We will use TopHat in-class and for homework.  Please bring a charged TopHat com
 
 
 [**TopHat**](www.tophat.com)  
-Join Code: **907997**  
+Join Code: **240667**  
 www.tophat.com  
 
-When logging into TopHat it will ask you for your university.  Typing in "University of Pittsburgh" brings up 3 options: **select the first one** that just says "University of Pittsburgh".
+When logging into TopHat it will ask you for your university.  Typing in "University of Pittsburgh" brings up multiple: **select the first one** that just says "University of Pittsburgh".
 
 
 If this is your first time using TopHat see [Joining TopHat](https://canvas.pitt.edu/courses/106737/pages/joining-tophat?module_item_id=2272350) for more information.    

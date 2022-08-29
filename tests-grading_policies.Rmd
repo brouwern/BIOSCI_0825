@@ -1,14 +1,14 @@
-# Test grading policies
+# Exam grading policies
 
-## Number of tests & drop/replace policy.
+## Number of tests and calculation of final grade
 
-* There will be 4 tests administered throughout the semester. 
+* There will be 3 Unit Exams and 1 Final Exam administered throughout the semester. 
 * The final exam will be semi-cumulative.
-* No makeup exams will be given for any reason.
-* Your lowest scores of the  4 mini-test will be automatically dropped when grades are calculated at the end of the semester.  
+* Your best 2 scores on of the 3 Unit Exams will be automatically dropped when grades are calculated at the end of the semester.
+* Makeup exams cannot be given.
 * If you are unable to take a unit test for ANY reason it will be counted zero.
-* If you miss just 1 test, that score will be automatically dropped as your lowest score when grades are calculated after the final.
-* You can take one of the 3 regular unit exams remotely via Zoom if you contact me beforehand.
+* If you miss just 1 test, that score will not contribute to your final grade - no worries.
+* You can take **one** of the 3 regular unit exams remotely via Zoom if you contact me beforehand.
 * You must take the final exam in-person
 
 
@@ -22,15 +22,17 @@
 
 NOTE: the following policies are provisional and may be adjusted as needed to optimize test length and how to implement the "buffer question" policy in Canvas.
 
-* Tests will be scored out of 35 points.   However, there will be at least 37 points worth of questions on the test.  Each test therefore will effectively contain 2 or "buffer points" that you can miss without harming your grade. 
-* The maximum score on a mini-test will always be capped at 35/35. If there are 37 points on a test and you get all 37 questions correct your score will be 100%. 
-* No extra credit will be offered on tests; the maximum score on a test will be 100%.
+* Exams will be scored out of 45 points.   However, there will be at least 47 points worth of questions on the test.  Each exam therefore will effectively contain 2 or "**buffer points**" that you can miss without harming your grade. 
+* The final exam will also contain buffer points.
+
+<!-- * The maximum score on a Unit Exam will always be capped at 45/45. If there are 47 points on a test and you get all 47 questions correct your score will be 100%.  -->
+<!-- * No extra credit will be offered on tests; the maximum score on a test will be 100%. -->
  
 
 ## Test question formats
 
-* Test questions will frequently be multiple choice.  Keyword: "frequently" - there will other types of questions too.
-* Most tests will have at least one question requiring a numeric calculation.  
+* Test questions will frequently be multiple choice.  Keyword: "*frequently*" - there will other types of questions too!
+* Most exams will have at least one question requiring a numeric calculation.  
 * Other common forms of questions are fill in the blank, dropdowns, or matching. 
 * There will likely NO True/False questions on tests.
 * For fill-in-the-blank questions, spelling errors will result in 0 points.  No partial credit will be given.

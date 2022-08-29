@@ -1,10 +1,10 @@
-# Course communication - Email and Canvas Messages {#email_and_canvas_msg}
+# Course communication - Email and Canvas messages {#email_and_canvas_msg}
 
 Announcements to the whole course via Canvas will occur typically on **Friday** afternoons.  Other communication related to course administration will also occur via Canvas messages.  It is your responsibility to regularly check Canvas messages to stay abreast of the course.
 
 Your can message me on Canvas or email me at nlb24 at pitt.edu.
 
-Please include "OCW" (Our changing world) as the 1st thing in your email subject line with an informative bit of information as the "...". e.g. "OCW: problem accessing TopHat".
+Please include "OCW" (Our Changing World) as the 1st thing in your email subject line with an informative bit of information as the "...". e.g. "Subect: OCW - problem accessing TopHat".
 
 
 If you use another email service as your primary email (eg GMail) please set your Pitt email to forward there. 

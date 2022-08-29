@@ -1,8 +1,7 @@
 # Grading scale
 
-
-```{r lodgradscale, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r lodgradscale, echo = F}
+#knitr::opts_chunk$set(echo = FALSE)
 
 library(readxl)
 library(knitr)
@@ -10,7 +9,7 @@ library(knitr)
 #Load grade scale
 grade_scale <- read.csv("grade_scale.csv")
 
-pander::pander(grade_scale)
+kable(grade_scale)
 
 ```
 

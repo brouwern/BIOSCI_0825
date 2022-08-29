@@ -1,6 +1,6 @@
-# Course content is cumulative 
+# Course content is (kinda) cumulative 
 
-Content within the course is technically cumulative with each test referring back to concepts from previous material!   
+Content within the course is technically cumulative with each unit and unit exam referring back to concepts from previous material!   
 
 **Luckily, this integration will occur within the lectures also so you shouldn't be surprised by the connections being made.**
 

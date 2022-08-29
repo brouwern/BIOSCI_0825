@@ -2,7 +2,9 @@
 
 Thanks to an open educational resources (OER) grant from the state of Pennsylvania there is no text to purchase for this course.  **All readings will be provided as webpages or PDFs.**  
 
-Most readings will be based on chapters from the book [*Ecology for All!*](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All).
+Most readings will be based on chapters from the book [*Ecology for All!*](https://bio.libretexts.org/Courses/Gettysburg_College/01%3A_Ecology_for_All): https://bit.ly/Ecology4All
+
+
 
 
 ```{r, echo = F}
